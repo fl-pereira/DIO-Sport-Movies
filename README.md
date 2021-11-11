@@ -11,7 +11,7 @@ Além disso, optei por inserir alguns comentários como forma de anotar o que es
 - [x] Sair da zona de conforto
 - [x] Estudar diariamente
 - [x] Gostar do que está fazendo
-- [ ] Estágio
+- [x] Estágio
 - [ ] Sucesso
 
 ## :computer:	SOCIAL
